@@ -29,3 +29,6 @@ ParaFi	0x5028d77b91a3754fb38b2fbb726af02d1fe44db6;0x4655b7ad0b5f5bacb9cf960bbffc
 神鱼	0xca436e14855323927d6e6264470ded36455fc8bd		
 
 proxy:127.0.0.1:11000
+dos窗口设置代理
+set http_proxy=127.0.0.1:11000
+set https_proxy=127.0.0.1:11000
